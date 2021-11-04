@@ -1,0 +1,29 @@
+/*
+theme name:Crafter
+author: Crafter
+author url: http://crafter.blogfa.com
+version: 1.0
+*/
+body{
+font-family:arial, sans-serif;
+font-size:16px;
+color:#545454;
+}
+a:link, a:visited{
+color:#4285f4;
+p{
+line-height:1.7em;
+}
+dive.container{
+max-width:960px;
+margin:0 autu;
+}
+article.post{
+border-bottom:none;
+}
+.site-header{
+border-bottom: 3px solid #ecf0f1;
+}
+.site-footer{
+border-top: 3px solid #ecf0f1;
+}
